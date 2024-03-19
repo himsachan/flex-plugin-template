@@ -1,13 +1,13 @@
 {
   "custom_data": {
-    "serverless_functions_domain": "custom-flex-extensions-serverless-6317-dev.twil.io",
+    "serverless_functions_domain": "custom-flex-extensions-serverless-3901-dev.twil.io",
     "features": {
       "dual_channel_recording": {
         "enabled": true,
         "channel": "worker"
       },
       "schedule_manager": {
-        "serverless_domain": "schedule-manager-3155-dev.twil.io"
+        "serverless_domain": "schedule-manager-8624-dev.twil.io"
       }
     }
   }
