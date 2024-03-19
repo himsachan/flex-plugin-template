@@ -5,7 +5,7 @@
     }
   },
   "custom_data": {
-    "serverless_functions_domain": "<YOUR_SERVERLESS_DOMAIN>",
+    "serverless_functions_domain": "custom-flex-extensions-serverless-3901-dev.twil.io",
     "common": {
       "log_level": "info",
       "teams": [
@@ -110,7 +110,7 @@
         "input_select": false
       },
       "dual_channel_recording": {
-        "enabled": false,
+        "enabled": true,
         "channel": "worker"
       },
       "pause_recording": {
