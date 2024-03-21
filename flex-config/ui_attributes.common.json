@@ -110,7 +110,7 @@
         "input_select": false
       },
       "dual_channel_recording": {
-        "enabled": true,
+        "enabled": false,
         "channel": "worker"
       },
       "pause_recording": {
